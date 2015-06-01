@@ -34,7 +34,7 @@ effective. Deltas are the experiences that made our job difficult.
 We'll reflect on the pros to see if their's an opportunity to further grow in
 that direction, and we'll reflect on the deltas to see what we can do to improve
 our process. The net result will be an action item list that will be either
-acted on immediately or prioritized in our backblog.
+acted on immediately or prioritized in our backlog.
 
 #### Story Grooming
 
