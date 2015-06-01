@@ -50,7 +50,7 @@ acceptance criteria. Acceptance criteria outlines details necessary to
 ensure that the feature successfully fulfills it's business requirements.
 
 The **development team's responsibility** is to ask for any clarification and
-details that they need in order to properly weight the story.
+details that they need in order to properly weight and complete the story.
 
 #### Iteration Kickoff
 
