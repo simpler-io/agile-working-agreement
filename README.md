@@ -38,16 +38,16 @@ acted on immediately or prioritized in our backblog.
 
 #### Story Grooming
 
-Story grooming is an excercise between the Product Owner and the
+Story grooming is an exercise between the Product Owner and the
 development team.
 
-The **Product Owner's responsibility** is to set/cummunicate goals, and curate a 
+The **Product Owner's responsibility** is to set/communicate goals, and curate a 
 prioritized list of stories to meet those goals for the following 2 iterations.
 The Product Owner presents to the development team each story with and idea of
 acceptance criteria. Acceptance criteria outlines details necessary to
-ensure that the feature successfully fullfils it's business requirements.
+ensure that the feature successfully fulfills it's business requirements.
 
-The **development team's responsiblity** is to ask for any clarification and
+The **development team's responsibility** is to ask for any clarification and
 details that they need in order to properly weight the story.
 
 #### Iteration Kickoff
