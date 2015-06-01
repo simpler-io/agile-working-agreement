@@ -42,9 +42,9 @@ Story grooming is an exercise between the Product Owner and the
 development team.
 
 The **Product Owner's responsibility** is to set/communicate goals, and curate a 
-prioritized list of stories to meet those goals for the following 2 iterations.
+prioritized list of stories to meet those goals for the following 2 iterations
 (e.g. the story grooming meeting held Tuesday June 2nd would
-include stories in Tracker through Friday June 19th)
+include stories in Tracker through Friday June 19th).
 The Product Owner presents to the development team each story with and idea of
 acceptance criteria. Acceptance criteria outlines details necessary to
 ensure that the feature successfully fulfills it's business requirements.
@@ -61,7 +61,7 @@ agrees on the plan.
 Pivotal Tracker Story States
 ------------------------------
 
-- Started: Developer is actively working on the story
-- Finished: Developer submits a pull request
-- Delivered: Developer merges in the pull request to the main branch and
-CircleCI will automatically deploy to staging if the build passes.
+- **Started** - Developer is actively working on the story.
+- **Finished** - Developer submits a pull request.
+- **Delivered** - Developer merges in the pull request to the main branch
+(CircleCI will automatically deploy to staging if the build passes).
