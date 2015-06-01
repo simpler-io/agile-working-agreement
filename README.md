@@ -43,6 +43,8 @@ development team.
 
 The **Product Owner's responsibility** is to set/communicate goals, and curate a 
 prioritized list of stories to meet those goals for the following 2 iterations.
+(e.g. the story grooming meeting held Tuesday June 2nd would
+include stories in Tracker through Friday June 19th)
 The Product Owner presents to the development team each story with and idea of
 acceptance criteria. Acceptance criteria outlines details necessary to
 ensure that the feature successfully fulfills it's business requirements.
