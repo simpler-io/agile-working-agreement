@@ -12,10 +12,10 @@ Iterations: Weekly
 
 Mondays:
 
-- 9:30  (30 minute timebox) Team Weekly Meeting
-- 10:00 (30 minute timebox) Demos
-- 10:30 (30 minute timebox) Retro
-- 11:00 (30 minute timebox) Iteration Kickoff
+- 10:00 (20 minute timebox) Demos
+- 10:20 (20 minute timebox) Retro - Pros/Deltas
+- 10:40 (40 minute timebox) Retro - Action Items
+- 11:20 (10 minute timebox) Iteration Kickoff
 
 Tuesdays:
 
@@ -26,15 +26,21 @@ Tuesdays:
 Each developer demos their stories that have been deployed to staging for
 the iteration.
 
-#### Retro
+#### Retro - Pros/Deltas
 
 As a team, we'll discuss the pros and deltas of our experiences during
 the iteration. Pros are the experiences that made our job easy and
 effective. Deltas are the experiences that made our job difficult.
-We'll reflect on the pros to see if their's an opportunity to further grow in
-that direction, and we'll reflect on the deltas to see what we can do to improve
-our process. The net result will be an action item list that will be either
-acted on immediately or prioritized in our backlog.
+We'll reflect on the pros to see if there's an opportunity to further grow in
+that direction, and we'll reflect on the deltas to see what we can do to
+improve any pain points or inefficiencies. 
+
+#### Retro - Action Items
+
+The net result of the retrospective will be an action item list to promote the
+pros and address the deltas. Each action item should assigned to an individual
+and acted on immediately or prioritized in our backlog. We will also
+review the prior action items as a follow-up.
 
 #### Story Grooming
 
