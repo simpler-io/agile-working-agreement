@@ -65,3 +65,16 @@ Pivotal Tracker Story States
 - **Finished** - Developer submits a pull request.
 - **Delivered** - Developer merges in the pull request to the main branch
 (CircleCI will automatically deploy to staging if the build passes).
+
+Definition of Ready
+-------------------
+
+The "definition of ready" outlines what the user story should contain in
+order for the user story to be ready for the developer to start.
+
+- User story titles and descriptions using **accurate domain terminology**.
+- Attach **screenshots of mockups** outlining the user work flow and general
+  layout of what's to be built. This doesn't have to be overly detailed. Its
+  purpose is to eliminate high-level design questions so the developer
+  can focus on executing without having to worry about making high-level
+  design decisions.
