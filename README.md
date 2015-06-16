@@ -42,6 +42,12 @@ pros and address the deltas. Each action item should assigned to an individual
 and acted on immediately or prioritized in our backlog. We will also
 review the prior action items as a follow-up.
 
+#### Iteration Kickoff
+
+Assuming the stories are well groomed over the past two weeks, the team
+reviews the plan for the week, reviews any recent story updates, and
+agrees on the plan.
+
 #### Story Grooming
 
 Story grooming is an exercise between the Product Owner and the
@@ -57,12 +63,6 @@ ensure that the feature successfully fulfills it's business requirements.
 
 The **development team's responsibility** is to ask for any clarification and
 details that they need in order to properly weight and complete the story.
-
-#### Iteration Kickoff
-
-Assuming the stories are well groomed over the past two weeks, the team
-reviews the plan for the week, reviews any recent story updates, and
-agrees on the plan.
 
 Pivotal Tracker Story States
 ------------------------------
