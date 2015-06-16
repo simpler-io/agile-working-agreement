@@ -19,7 +19,7 @@ Mondays:
 
 Tuesdays:
 
-- 4:00 (1 hour timebox) Story Grooming
+- 1:00 (25 minute timebox) Story Grooming
 
 #### Demo
 
